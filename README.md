@@ -4,7 +4,7 @@ AI-powered smart city problem reporting and prioritization system.
 
 ## 🚀 Live Demo
 
-[Open CivicFix AI App]( [https://share.google/AMlm1NZTTtP33Ro9f](https://civicfixai.ai.studio))
+[Open CivicFix AI App](https://civicfixai.ai.studio)
 
 ## Features
 
