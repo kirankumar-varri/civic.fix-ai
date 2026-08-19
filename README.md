@@ -1,11 +1,16 @@
-<div align="center">
+# CivicFix AI
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+AI-powered smart city problem reporting and prioritization system.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 Live Demo
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+[Open CivicFix AI App]( https://share.google/AMlm1NZTTtP33Ro9f)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Features
 
-</div>
+- 📸 Report civic problems with photos
+- 📝 Add problem descriptions
+- 📍 Select location
+- 🤖 AI-based problem analysis
+- 🚨 Automatic priority detection
+- 📊 Track reported problems
